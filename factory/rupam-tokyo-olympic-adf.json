@@ -1,0 +1,9 @@
+{
+	"name": "rupam-tokyo-olympic-adf",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "81a2c660-88b6-4b20-b4fa-a7b144cc3645",
+		"tenantId": "498d1fa7-172e-4231-95cc-12b957ca7c62"
+	}
+}
